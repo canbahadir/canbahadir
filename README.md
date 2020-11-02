@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a software design engineer with background of electronics engineering and currently on thesis phase of my masters degree on signal processing. I am currently working on Linux, platforms and network design.
+
+- 💻 Field of Work: Linux (RHEL) customization and deployment on physical, virtual and cloud servers. 
+- 🎓 Field of Study: Signal Processing
+- 📄 Current language skillset: Bash, Perl, Python.
+- 📚 Current tech stack: Jira, Confluence, IBM Clearcase, Linux, Virtual Machine Manager, Openstack, Git(Bitbucket), Jenkins, JFrog Artifactory, Vagrant.
+- 🌱 Currently learning: Google Cloud Platform, Microsoft Azure, Kubernetes, Docker, Golang.
+
 <!--
 **canbahadir/canbahadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
