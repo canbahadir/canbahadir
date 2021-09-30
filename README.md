@@ -9,9 +9,7 @@ Who am I in list format ( because why not 😎 ):
 - Learning 🎸
 
 Personal website: https://bahadircan.com/
-
 Tech articles: https://tech.bahadircan.com/
-
 GitHub: https://github.com/canbahadir
 
 
