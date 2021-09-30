@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-I am a software design engineer with background of electronics engineering and currently on thesis phase of my masters degree on signal processing. I am currently working on Linux, platforms and network design.
+Who am I in list format ( because why not 😎 ):
+- Software design engineer working mostly on platform and DevOps stuff. 
+- Electronics Engineering Bachelor Degree
+- Working towards Master's Degree on Signal Processing 
+- Researching about Innovation Culture as Xnovate Circle Member
+- Doing lots of 🚴 and 🏃 
+- Learning 🎸
+
+Personal website: https://bahadircan.com/
+Tech articles: https://tech.bahadircan.com/
+GitHub: https://github.com/canbahadir
 
 - 💻 Field of Work: Linux (RHEL) customization and deployment on physical, virtual and cloud servers. 
 - 🎓 Field of Study: Signal Processing
