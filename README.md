@@ -16,7 +16,7 @@ Tech articles: https://tech.bahadircan.com/
 - 🎓 Field of Study: Signal Processing
 - 📄 Current language skillset: Bash, Perl, Python.
 - 📚 Current tech stack: Jira, Confluence, IBM Clearcase, Linux, Virtual Machine Manager, Openstack, Git(Bitbucket), Jenkins, JFrog Artifactory, Vagrant.
-- 🌱 Currently learning: Google Cloud Platform, Microsoft Azure, Kubernetes, Docker, Golang.
+- 🌱 Currently learning: Google Cloud Platform, Microsoft Azure, Kubernetes, Docker, AWS, Golang.
 
 <!--
 **canbahadir/canbahadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
